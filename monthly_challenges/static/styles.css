@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,400;0,700;1,400;1,700&family=Oswald:wght@400;500;600;700&family=Pathway+Extreme:ital,wght@0,300;0,400;0,500;1,500&family=Poppins:wght@400;500;600&family=Raleway&display=swap');
+
+html {
+    font-family: 'Oswald', sans-serif;
+}
+
+body {
+    margin: 0;
+    background-color: rgb(33, 31, 31);
+}
